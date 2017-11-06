@@ -13,8 +13,8 @@ if ( function_exists( 'fvm_purge_all' ) ) {
     add_action( 'qazana/editor/after_save', 'qcb_fvm_purge_all' );
     add_action( 'radium_after_generate_css_file', 'qcb_fvm_purge_all' );
 } else {
-    add_action( 'qazana/editor/after_save', 'qcb_fastvelocity_purge_others' );
-    add_action( 'radium_after_generate_css_file', 'qcb_fastvelocity_purge_others' );
+    add_action( 'qazana/editor/after_save', 'qcb_purge_others' );
+    add_action( 'radium_after_generate_css_file', 'qcb_purge_others' );
 }
 
 function qcb_fvm_purge_all() {
