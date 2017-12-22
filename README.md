@@ -7,8 +7,8 @@ This plugin clears caches when a page layout is updated using the Qazana layout 
 For more info, check us out on twitter <a href="https://twitter.com/RadiumThemes">Twitter</a> and view our website <a href="https://radiumthemes.com">RadiumThemes</a>.
 
 # Qazana Layout Builder
-Github Link <a href="https://github.com/FrankM1/qazana">https://github.com/FrankM1/qazana</a>
-Developer Documentation Link <a href="https://github.com/FrankM1/qazana">https://github.com/FrankM1/qazana</a>
+* Github Link <a href="https://github.com/FrankM1/qazana">https://github.com/FrankM1/qazana</a>
+* Developer Documentation Link <a href="https://github.com/FrankM1/qazana">https://github.com/FrankM1/qazana</a>
 
 ## Installation
 
